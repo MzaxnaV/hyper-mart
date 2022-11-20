@@ -31,8 +31,8 @@ def detail(request, product_id):
 
 
 def list_items(request):
-    list_of_iterms_exiring_soon=Product.objects.order_by('expiry_date')
-    context={
+    list_of_iterms_exiring_soon = Product.objects.order_by('expiry_date')
+    context = {
         'list_of_iterms_exiring_soon': list_of_iterms_exiring_soon
     }
     return render(request, 'dashboard/list.html', context)

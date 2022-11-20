@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88255902-4804-41d3-afab-25bdd6a20abf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/hyperMart/dashboard/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/hyperMart/dashboard/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hyperMart/dashboard/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/hyperMart/dashboard/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hyperMart/dashboard/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/hyperMart/dashboard/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hyperMart/dashboard/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/hyperMart/dashboard/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hyperMart/dashboard/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/hyperMart/dashboard/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hyperMart/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/hyperMart/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hyperMart/templates/dashboard/brand.html" beforeDir="false" afterPath="$PROJECT_DIR$/hyperMart/templates/dashboard/brand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hyperMart/templates/dashboard/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hyperMart/templates/dashboard/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hyperMart/templates/dashboard/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/hyperMart/templates/dashboard/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hyperMart/templates/dashboard/order.html" beforeDir="false" afterPath="$PROJECT_DIR$/hyperMart/templates/dashboard/order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hyperMart/templates/dashboard/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/hyperMart/templates/dashboard/product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hyperMart/templates/partials/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/hyperMart/templates/partials/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hyperMart/templates/partials/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/hyperMart/templates/partials/nav.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

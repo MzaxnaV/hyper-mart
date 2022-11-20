@@ -1,9 +1,9 @@
 {% if list_of_iterms_exiring_soon %}
-    <ul>
-        {% for product in list_of_iterms_exiring_soon %}
-            <li><a href="/{{ product.id }}/">{{ product.product_name }}</a></li>
-        {% endfor %}
-    </ul>
+<ul>
+    {% for product in list_of_iterms_exiring_soon %}
+    <li><a href="/{{ product.id }}/">{{ product.product_name }}</a></li>
+    {% endfor %}
+</ul>
 {% else %}
-    <p>No products here.</p>
+<p>No products here.</p>
 {% endif %}
