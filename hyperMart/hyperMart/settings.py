@@ -27,10 +27,12 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+MEDIA_ROOT = "/workspaces/hyper-mart/hyperMart/images/"
+
 
 # Application definition
 
-INSTALLED_APPS = [
+INSTALLED_APPS = [#
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
