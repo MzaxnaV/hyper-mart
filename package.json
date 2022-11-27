@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "phaser": "^3.55.2"
+  },
+  "name": "hyper-mart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "development": "webpack serve --open --config webpack.development.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MzaxnaV/hyper-mart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MzaxnaV/hyper-mart/issues"
+  },
+  "homepage": "https://github.com/MzaxnaV/hyper-mart#readme",
+  "description": "",
+  "devDependencies": {
+    "clean-webpack-plugin": "^4.0.0",
+    "copy-webpack-plugin": "^11.0.0",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
